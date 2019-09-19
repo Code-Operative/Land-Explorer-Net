@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LandExplorerNet",
+    "\\LandExplorerNet\\Configuration",
+    "\\LandExplorerNet\\Connected Services",
+    "\\LandExplorerNet\\Connected Services\\ServiceReference1",
+    "\\LandExplorerNet\\Controllers",
+    "\\LandExplorerNet\\obj",
+    "\\LandExplorerNet\\Properties",
+    "\\src"
+  ],
+  "SelectedNode": "\\LandExplorerNet\\Controllers\\HelloController.cs",
+  "PreviewInSolutionExplorer": false
+}
